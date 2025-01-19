@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ecuafast.dir/src/entities/senae_server.cpp.o CMakeFiles/ecuafast.dir/src/entities/sri_server.cpp.o CMakeFiles/ecuafast.dir/src/entities/supercia_server.cpp.o CMakeFiles/ecuafast.dir/src/main.cpp.o CMakeFiles/ecuafast.dir/src/port/port_manager.cpp.o CMakeFiles/ecuafast.dir/src/ship/ship_client.cpp.o -o ecuafast 

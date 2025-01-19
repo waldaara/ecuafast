@@ -86,8 +86,10 @@ int main(int argc, char *argv[]) {
         }
 
         break;
+
       default:
         fprintf(stderr, "Usage: %s -p <port>\n", argv[0]);
+
         return EXIT_FAILURE;
     }
   }
